@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 37d231ec54d73f64aaacb45e632d2824, type: 3}
+  m_Name: 4Claw
+  m_EditorClassIdentifier: Assembly-CSharp::Common
+  _name: 4Claw
+  _icon: {fileID: 21300000, guid: 3b3d7e89abd8f744c91ddb392a9156c2, type: 3}
+  _id: 4
+  _descroption: 
+  _moneyPrice: 10
+  _itemPrice: {fileID: 0}
+  _view: {fileID: 3502843856068883338, guid: f43978af61c08264fb066ae9f8f6939b, type: 3}

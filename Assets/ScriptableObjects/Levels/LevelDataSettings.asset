@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2be4314a2053c664c8ccda1edc55ab48, type: 3}
+  m_Name: LevelDataSettings
+  m_EditorClassIdentifier: 
+  _lvlNumber: 3
+  _description: 
+  _conversationName: Mashroom
+  _textOnLevelSelect: 
+  _isComplete: 0
+  _isActive: 1
+  _enemies:
+  - {fileID: -2885037759124000068, guid: b419ba27c942d924495501253934c27f, type: 3}
+  - {fileID: -2885037759124000068, guid: b419ba27c942d924495501253934c27f, type: 3}
+  _imageInBuble: {fileID: 0}

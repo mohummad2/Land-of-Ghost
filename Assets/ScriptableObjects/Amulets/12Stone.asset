@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e16f663faf10e12418cddc1426a84a52, type: 3}
+  m_Name: 12Stone
+  m_EditorClassIdentifier: 
+  _name: 12Stone
+  _icon: {fileID: 21300000, guid: 62e208232bdf7534cb81fe362d7ccb7d, type: 3}
+  _id: 12
+  _descroption: "\u0432\u0430\u043C\u043F\u0456\u0440\u0438\u0437\u043C \u043D\u0430
+    6 \u0441\u0435\u043A\u0443\u043D\u0434"
+  _moneyPrice: 50
+  _itemPrice: {fileID: 0}
+  _view: {fileID: 2046396218622490427, guid: 51273a6656cd2074598e23b1eb7df2ce, type: 3}
+  _damageAmount: 0
+  _damageToPlayer: 0
+  _countUses: -1
+  _amuletAfterAllUses: {fileID: 0}
+  _effect: {fileID: 0}
+  _animationId: 6
